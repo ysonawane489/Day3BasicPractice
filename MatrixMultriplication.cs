@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Day3BasicPractice
 {
- /*  class MatrixMultriplication
+   class MatrixMultriplication
     {
         public static void Main()
         {
@@ -43,7 +43,7 @@ namespace Day3BasicPractice
             }
             Console.Write("\n\n");
                    
-             } */
+             } 
          } 
     
 
